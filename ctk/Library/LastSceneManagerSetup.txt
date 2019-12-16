@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Showroom_Hall/02-Scenes/Exemple_Night.unity
+  isLoaded: 1
+  isActive: 1
