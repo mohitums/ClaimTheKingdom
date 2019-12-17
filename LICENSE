@@ -13,5 +13,9 @@ copies of the Software, and to permit persons to whom the Software is furnished 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-Additional notice: This student project was developed as part of the CSCI 538 Augmented Virtual and Mixed Reality, at USC. Please note that the student authors of the code for the project “Claim the Kingdom” have chosen their own license terms for the assets here.  If you want to use anything, please make sure you follow the license.  It is recommended that you use the MIT license for any derivatives of the project, but it's up to you. In any case all original authors should be included in the new licence.  Pay special attention to any third party assets such as Unity assets, 3D models etc that they carry their own licencing terms. 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Additional notice: This student project was developed as part of the CSCI 538 Augmented Virtual and Mixed Reality, at USC. Please note that the student authors 
+of the code for the project “Claim the Kingdom” have chosen their own license terms for the assets here.  If you want to use anything, please make sure you follow the license.  
+It is recommended that you use the MIT license for any derivatives of the project, but it's up to you. In any case all original authors should be included in the new licence.
+Pay special attention to any third party assets such as Unity assets, 3D models etc that they carry their own licencing terms. 
